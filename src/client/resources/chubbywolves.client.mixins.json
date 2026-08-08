@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "com.chubbywolves.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"WolfRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
